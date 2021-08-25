@@ -5,9 +5,12 @@ The Complete 2021 Web Development Bootcamp
 Instructor: Dr. Angela Yu      
 
 ## Description
-This project renders two paragraphs:
-* Who create the project
-* Copyright and the current year
+This project renders paragraphs with examples of JavaScrip Expressions that we can use in JSX:
+* Basic use of JS variables
+* String Concatenation
+* Template Literal
+* Number stored in a variable
+* Number generated using JavaScript Math
 
 ## Notes
 JSX allow us to insert HTML into JS Files      
@@ -17,6 +20,8 @@ We can inject JS Expressions but we can NOT write JS Statements
 
 ## What I have learned with this project:
 * Create constants
-* Retrieve the current year using Date, a JavaScript Object
+* Insert the constant in an HTML using curly braces { }
 * Insert HTML elements inside our JS files to be render 
-* Insert JS Variables inside the Html Elements created 
+* In JSX:
+    * We can use JS Expressions
+    * We can NOT use JS Statements 
